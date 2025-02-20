@@ -1,0 +1,4 @@
+# Basic and simple code
+import qrcode as qr
+img = qr.make("https://github.com/itsvishal1012/itsvishal1012") // you can change link according to your use 
+img.save("github.png") // you can save png image by any name 
