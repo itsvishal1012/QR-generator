@@ -1,4 +1,3 @@
-# QR-generator
 # QR code generator using python 
 
 # Description
@@ -15,7 +14,7 @@ To use this QR Code Generator, follow these steps:
 
 1. Clone the repository:
  
-   git clone https://github.com/itsvishal1012/qr-code-generator.git
+   git clone https://github.com/itsvishal1012/QR-generator.git
   
 2. Navigate to the project directory:
   
